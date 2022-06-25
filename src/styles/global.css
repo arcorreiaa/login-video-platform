@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-gray-900 text-gray-100;
+  -webkit-font-smoothing: antialiased;
+}
+
+body::-webkit-scrollbar {
+    background-color: #09090A;
+    width: 10px;
+
+}
+
+body::-webkit-scrollbar-thumb {
+    background-color: #121214;
+}
