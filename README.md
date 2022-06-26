@@ -26,6 +26,8 @@ A aplicação Event Platform desenvolvida durante a semana do evento [Ignite Lab
 - [PostCSS](https://postcss.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Figma](https://www.figma.com)
+- [GraphQL Code Generatpr](https://www.graphql-code-generator.com/)
+- 
 
 # O que são essas tecnologias?
 
